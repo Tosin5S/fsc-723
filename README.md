@@ -1,2 +1,3 @@
+# Learning begins at a point ....
 # fsc-723
-Introduction to Programming. Learning the basics.
+Introduction to Programming... Learning the basics.

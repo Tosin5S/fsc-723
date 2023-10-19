@@ -7,7 +7,7 @@ public class NumAdd {
         System.out.println("Enter the first number ");
         int num = in.nextInt();
 
-        while (num >= 0) {
+        while (num <= 0) {
            numAdd += num;
            count++;
            System.out.println("Next Number? ");

@@ -6,9 +6,9 @@ Introduction to Programming... Learning the basics.
 
 | Type of Control Structure | Description | Example |
 |---|---|---|
-| Sequential | The statements in the control structure are executed in order, one after the other. | `int a = 1; int b = 2; System.out.println(a + b);` |
-| Branching Decision | The statements in the control structure are executed based on the evaluation of a condition. | `if (a > b) { System.out.println("a is greater than b."); } else { System.out.println("b is greater than a."); }` |
-| Evening Repetition/Iteration | The statements in the control structure are executed repeatedly, either on fulfilling a condition or for some number of times. | `for (int i = 0; i < 10; i++) { System.out.println(i); }` |
+| Sequential control | The statements in the control structure are executed in order, one after the other. | `int a = 1; int b = 2; System.out.println(a + b);` |
+| Branching / Decision | The statements in the control structure are executed based on the evaluation of a condition. | `if (a > b) { System.out.println("a is greater than b."); } else { System.out.println("b is greater than a."); }` |
+| Looping / Repetition / Iteration | The statements in the control structure are executed repeatedly, either on fulfilling a condition or for some number of times. | `for (int i = 0; i < 10; i++) { System.out.println(i); }` |
 
 ### Java Control Structures
 

@@ -11,14 +11,12 @@ Introduction to Programming... Learning the basics.
 | Looping / Repetition / Iteration | The statements in the control structure are executed repeatedly, either on fulfilling a condition or for some number of times. | 
 
 ### Java Control Structures
-
-| Type of Control Structure |
-|---|
-| if/else |
-| switch | 
-| for |
-| while | 
-| do/while | 
+| Statement Type | Keyword |
+|---|---|
+| Looping / Repetition | while, do-while, for |
+| Decision making / Selection | if, if-else, switch-case |
+| Exception handling | try-catch-finally, throw |
+| Branching | break, continue, label:, return |
 
 ### Python Control Structures
 
